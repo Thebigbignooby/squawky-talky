@@ -1,0 +1,10 @@
+{
+  "name": "@squawky-talky/app-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@squawky-talky/app"
+    ]
+  }
+}
