@@ -2,11 +2,11 @@
 
 ## TODO
 
-- [ ] Make it deploy
-- [ ] Tests run in CI
+- [ ] Make it deploy (vercel)
+- [ ] Tests run in CI (github? or vercel?)
 - [ ] Add Tailwind/Shadcn
 - [ ] Add Storybook
-- [ ] Create DB in Supabase
+- [ ] Create DB (supebase)
 - [ ] Add Prisma/Schema and update DB
 - [ ] Connect Apps to DB
 - [ ] Add Supebase Authentication
